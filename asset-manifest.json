@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "https://sialater69.github.io/csb-potnxr/static/css/main.2b81de8c.chunk.css",
+    "main.js": "https://sialater69.github.io/csb-potnxr/static/js/main.a59286f5.chunk.js",
+    "main.js.map": "https://sialater69.github.io/csb-potnxr/static/js/main.a59286f5.chunk.js.map",
+    "runtime-main.js": "https://sialater69.github.io/csb-potnxr/static/js/runtime-main.d87bbe6f.js",
+    "runtime-main.js.map": "https://sialater69.github.io/csb-potnxr/static/js/runtime-main.d87bbe6f.js.map",
+    "static/js/2.57cd0de3.chunk.js": "https://sialater69.github.io/csb-potnxr/static/js/2.57cd0de3.chunk.js",
+    "static/js/2.57cd0de3.chunk.js.map": "https://sialater69.github.io/csb-potnxr/static/js/2.57cd0de3.chunk.js.map",
+    "index.html": "https://sialater69.github.io/csb-potnxr/index.html",
+    "static/css/main.2b81de8c.chunk.css.map": "https://sialater69.github.io/csb-potnxr/static/css/main.2b81de8c.chunk.css.map",
+    "static/js/2.57cd0de3.chunk.js.LICENSE.txt": "https://sialater69.github.io/csb-potnxr/static/js/2.57cd0de3.chunk.js.LICENSE.txt",
+    "static/media/HelloWorld.191dfdf0.mp4": "https://sialater69.github.io/csb-potnxr/static/media/HelloWorld.191dfdf0.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d87bbe6f.js",
+    "static/js/2.57cd0de3.chunk.js",
+    "static/css/main.2b81de8c.chunk.css",
+    "static/js/main.a59286f5.chunk.js"
+  ]
+}
